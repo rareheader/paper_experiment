@@ -1,0 +1,5 @@
+# Dataset caches are regenerated locally. cifar10_train.pt and the parquet
+# mirror are larger than GitHub's 100 MB file limit.
+data/
+__pycache__/
+*.pyc

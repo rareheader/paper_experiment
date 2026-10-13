@@ -1,0 +1,471 @@
+[sflbr] round 1/15 lr=0.1 acc=0.9098 train=22.6s rho_mal_mean=None
+[sflbr] round 2/15 lr=0.1 acc=- train=20.9s rho_mal_mean=None
+[sflbr] round 3/15 lr=0.1 acc=0.9792 train=22.3s rho_mal_mean=None
+[sflbr] round 4/15 lr=0.1 acc=- train=20.4s rho_mal_mean=None
+[sflbr] round 5/15 lr=0.1 acc=0.9869 train=23.5s rho_mal_mean=None
+[sflbr] round 6/15 lr=0.01 acc=- train=20.4s rho_mal_mean=None
+[sflbr] round 7/15 lr=0.01 acc=0.9883 train=20.9s rho_mal_mean=None
+[sflbr] round 8/15 lr=0.01 acc=- train=22.1s rho_mal_mean=None
+[sflbr] round 9/15 lr=0.01 acc=0.9881 train=22.2s rho_mal_mean=None
+[sflbr] round 10/15 lr=0.01 acc=- train=21.0s rho_mal_mean=None
+[sflbr] round 11/15 lr=0.001 acc=0.9886 train=23.7s rho_mal_mean=None
+[sflbr] round 12/15 lr=0.001 acc=- train=22.4s rho_mal_mean=None
+[sflbr] round 13/15 lr=0.001 acc=0.9888 train=21.2s rho_mal_mean=None
+[sflbr] round 14/15 lr=0.001 acc=- train=21.6s rho_mal_mean=None
+[sflbr] round 15/15 lr=0.001 acc=0.9887 train=22.0s rho_mal_mean=None
+RESULT slug=mnist_sflbr_none_mr0.0_beta0.5_r15_s0 final_acc=0.9887 best_acc=0.9888 wall_sec=330
+[fedavg] round 1/15 lr=0.1 acc=0.9047 train=22.7s 
+[fedavg] round 2/15 lr=0.1 acc=- train=22.8s 
+[fedavg] round 3/15 lr=0.1 acc=0.9782 train=26.5s 
+[fedavg] round 4/15 lr=0.1 acc=- train=25.7s 
+[fedavg] round 5/15 lr=0.1 acc=0.9863 train=25.7s 
+[fedavg] round 6/15 lr=0.01 acc=- train=24.8s 
+[fedavg] round 7/15 lr=0.01 acc=0.9875 train=24.7s 
+[fedavg] round 8/15 lr=0.01 acc=- train=23.3s 
+[fedavg] round 9/15 lr=0.01 acc=0.9879 train=30.3s 
+[fedavg] round 10/15 lr=0.01 acc=- train=24.5s 
+[fedavg] round 11/15 lr=0.001 acc=0.9885 train=21.0s 
+[fedavg] round 12/15 lr=0.001 acc=- train=24.1s 
+[fedavg] round 13/15 lr=0.001 acc=0.9886 train=22.3s 
+[fedavg] round 14/15 lr=0.001 acc=- train=21.2s 
+[fedavg] round 15/15 lr=0.001 acc=0.9887 train=21.3s 
+RESULT slug=mnist_fedavg_none_mr0.0_beta0.5_r15_s0 final_acc=0.9887 best_acc=0.9887 wall_sec=364
+[sflbr] round 1/15 lr=0.1 acc=0.9651 train=22.7s rho_mal_mean=None
+[sflbr] round 2/15 lr=0.1 acc=- train=21.4s rho_mal_mean=None
+[sflbr] round 3/15 lr=0.1 acc=0.9879 train=20.8s rho_mal_mean=None
+[sflbr] round 4/15 lr=0.1 acc=- train=21.4s rho_mal_mean=None
+[sflbr] round 5/15 lr=0.1 acc=0.9891 train=21.0s rho_mal_mean=None
+[sflbr] round 6/15 lr=0.01 acc=- train=22.3s rho_mal_mean=None
+[sflbr] round 7/15 lr=0.01 acc=0.9897 train=21.6s rho_mal_mean=None
+[sflbr] round 8/15 lr=0.01 acc=- train=20.8s rho_mal_mean=None
+[sflbr] round 9/15 lr=0.01 acc=0.9898 train=21.3s rho_mal_mean=None
+[sflbr] round 10/15 lr=0.01 acc=- train=22.1s rho_mal_mean=None
+[sflbr] round 11/15 lr=0.001 acc=0.9902 train=21.4s rho_mal_mean=None
+[sflbr] round 12/15 lr=0.001 acc=- train=20.8s rho_mal_mean=None
+[sflbr] round 13/15 lr=0.001 acc=0.9904 train=21.2s rho_mal_mean=None
+[sflbr] round 14/15 lr=0.001 acc=- train=21.2s rho_mal_mean=None
+[sflbr] round 15/15 lr=0.001 acc=0.9905 train=21.3s rho_mal_mean=None
+RESULT slug=mnist_sflbr_none_mr0.0_beta100.0_r15_s0 final_acc=0.9905 best_acc=0.9905 wall_sec=324
+[sflbr] round 1/15 lr=0.1 acc=0.8538 train=22.0s rho_mal_mean=0.09586391
+[sflbr] round 2/15 lr=0.1 acc=- train=21.7s rho_mal_mean=0.09082533
+[sflbr] round 3/15 lr=0.1 acc=0.9586 train=21.0s rho_mal_mean=0.08761627
+[sflbr] round 4/15 lr=0.1 acc=- train=21.3s rho_mal_mean=0.086011
+[sflbr] round 5/15 lr=0.1 acc=0.9719 train=22.3s rho_mal_mean=0.08158092
+[sflbr] round 6/15 lr=0.01 acc=- train=21.3s rho_mal_mean=0.0657168
+[sflbr] round 7/15 lr=0.01 acc=0.9821 train=20.6s rho_mal_mean=0.07040031
+[sflbr] round 8/15 lr=0.01 acc=- train=21.2s rho_mal_mean=0.06170274
+[sflbr] round 9/15 lr=0.01 acc=0.9837 train=23.7s rho_mal_mean=0.06066724
+[sflbr] round 10/15 lr=0.01 acc=- train=21.2s rho_mal_mean=0.06151773
+[sflbr] round 11/15 lr=0.001 acc=0.9803 train=20.9s rho_mal_mean=0.07012507
+[sflbr] round 12/15 lr=0.001 acc=- train=21.1s rho_mal_mean=0.0381725
+[sflbr] round 13/15 lr=0.001 acc=0.9811 train=21.2s rho_mal_mean=0.0415312
+[sflbr] round 14/15 lr=0.001 acc=- train=20.9s rho_mal_mean=0.04172679
+[sflbr] round 15/15 lr=0.001 acc=0.9812 train=21.1s rho_mal_mean=0.04082984
+RESULT slug=mnist_sflbr_label_shuffle_mr0.3_beta0.5_r15_s0 final_acc=0.9812 best_acc=0.9837 wall_sec=324
+[fedavg] round 1/15 lr=0.1 acc=0.8479 train=21.7s 
+[fedavg] round 2/15 lr=0.1 acc=- train=20.9s 
+[fedavg] round 3/15 lr=0.1 acc=0.9553 train=21.7s 
+[fedavg] round 4/15 lr=0.1 acc=- train=22.8s 
+[fedavg] round 5/15 lr=0.1 acc=0.9575 train=21.5s 
+[fedavg] round 6/15 lr=0.01 acc=- train=20.8s 
+[fedavg] round 7/15 lr=0.01 acc=0.9754 train=21.1s 
+[fedavg] round 8/15 lr=0.01 acc=- train=22.5s 
+[fedavg] round 9/15 lr=0.01 acc=0.9751 train=20.7s 
+[fedavg] round 10/15 lr=0.01 acc=- train=20.7s 
+[fedavg] round 11/15 lr=0.001 acc=0.9633 train=21.4s 
+[fedavg] round 12/15 lr=0.001 acc=- train=21.2s 
+[fedavg] round 13/15 lr=0.001 acc=0.9579 train=21.0s 
+[fedavg] round 14/15 lr=0.001 acc=- train=20.9s 
+[fedavg] round 15/15 lr=0.001 acc=0.9591 train=21.8s 
+RESULT slug=mnist_fedavg_label_shuffle_mr0.3_beta0.5_r15_s0 final_acc=0.9591 best_acc=0.9754 wall_sec=324
+[median] round 1/15 lr=0.1 acc=0.7761 train=21.5s 
+[median] round 2/15 lr=0.1 acc=- train=22.5s 
+[median] round 3/15 lr=0.1 acc=0.9719 train=22.6s 
+[median] round 4/15 lr=0.1 acc=- train=21.5s 
+[median] round 5/15 lr=0.1 acc=0.9789 train=20.9s 
+[median] round 6/15 lr=0.01 acc=- train=22.1s 
+[median] round 7/15 lr=0.01 acc=0.9831 train=22.6s 
+[median] round 8/15 lr=0.01 acc=- train=21.6s 
+[median] round 9/15 lr=0.01 acc=0.9835 train=21.3s 
+[median] round 10/15 lr=0.01 acc=- train=21.8s 
+[median] round 11/15 lr=0.001 acc=0.9846 train=21.0s 
+[median] round 12/15 lr=0.001 acc=- train=21.5s 
+[median] round 13/15 lr=0.001 acc=0.9844 train=21.4s 
+[median] round 14/15 lr=0.001 acc=- train=21.0s 
+[median] round 15/15 lr=0.001 acc=0.9841 train=22.6s 
+RESULT slug=mnist_median_label_shuffle_mr0.3_beta0.5_r15_s0 final_acc=0.9841 best_acc=0.9846 wall_sec=329
+[tmean] round 1/15 lr=0.1 acc=0.7814 train=22.5s 
+[tmean] round 2/15 lr=0.1 acc=- train=21.4s 
+[tmean] round 3/15 lr=0.1 acc=0.9696 train=21.0s 
+[tmean] round 4/15 lr=0.1 acc=- train=21.5s 
+[tmean] round 5/15 lr=0.1 acc=0.9791 train=23.4s 
+[tmean] round 6/15 lr=0.01 acc=- train=21.6s 
+[tmean] round 7/15 lr=0.01 acc=0.9838 train=20.9s 
+[tmean] round 8/15 lr=0.01 acc=- train=21.2s 
+[tmean] round 9/15 lr=0.01 acc=0.9833 train=21.7s 
+[tmean] round 10/15 lr=0.01 acc=- train=20.9s 
+[tmean] round 11/15 lr=0.001 acc=0.984 train=21.0s 
+[tmean] round 12/15 lr=0.001 acc=- train=20.7s 
+[tmean] round 13/15 lr=0.001 acc=0.9848 train=21.8s 
+[tmean] round 14/15 lr=0.001 acc=- train=22.4s 
+[tmean] round 15/15 lr=0.001 acc=0.9848 train=21.3s 
+RESULT slug=mnist_tmean_label_shuffle_mr0.3_beta0.5_r15_s0 final_acc=0.9848 best_acc=0.9848 wall_sec=326
+[sflbr] round 1/15 lr=0.1 acc=0.1118 train=21.9s rho_mal_mean=0.11585002
+[sflbr] round 2/15 lr=0.1 acc=- train=20.0s rho_mal_mean=0.12118337
+[sflbr] round 3/15 lr=0.1 acc=0.1004 train=20.5s rho_mal_mean=0.11374411
+[sflbr] round 4/15 lr=0.1 acc=- train=20.3s rho_mal_mean=nan
+[sflbr] round 5/15 lr=0.1 acc=0.098 train=20.4s rho_mal_mean=nan
+[sflbr] round 6/15 lr=0.01 acc=- train=19.9s rho_mal_mean=nan
+[sflbr] round 7/15 lr=0.01 acc=0.098 train=19.5s rho_mal_mean=nan
+[sflbr] round 8/15 lr=0.01 acc=- train=19.6s rho_mal_mean=nan
+[sflbr] round 9/15 lr=0.01 acc=0.098 train=20.0s rho_mal_mean=nan
+[sflbr] round 10/15 lr=0.01 acc=- train=19.7s rho_mal_mean=nan
+[sflbr] round 11/15 lr=0.001 acc=0.098 train=19.6s rho_mal_mean=nan
+[sflbr] round 12/15 lr=0.001 acc=- train=19.5s rho_mal_mean=nan
+[sflbr] round 13/15 lr=0.001 acc=0.098 train=19.6s rho_mal_mean=nan
+[sflbr] round 14/15 lr=0.001 acc=- train=20.8s rho_mal_mean=nan
+[sflbr] round 15/15 lr=0.001 acc=0.098 train=20.2s rho_mal_mean=nan
+RESULT slug=mnist_sflbr_alie_mr0.5_beta0.5_r15_s0 final_acc=0.0980 best_acc=0.1118 wall_sec=304
+[fedavg] round 1/15 lr=0.1 acc=0.2257 train=21.2s 
+[fedavg] round 2/15 lr=0.1 acc=- train=20.0s 
+[fedavg] round 3/15 lr=0.1 acc=0.0982 train=20.9s 
+[fedavg] round 4/15 lr=0.1 acc=- train=20.4s 
+[fedavg] round 5/15 lr=0.1 acc=0.098 train=19.9s 
+[fedavg] round 6/15 lr=0.01 acc=- train=19.8s 
+[fedavg] round 7/15 lr=0.01 acc=0.0982 train=20.4s 
+[fedavg] round 8/15 lr=0.01 acc=- train=19.8s 
+[fedavg] round 9/15 lr=0.01 acc=0.0982 train=19.8s 
+[fedavg] round 10/15 lr=0.01 acc=- train=19.8s 
+[fedavg] round 11/15 lr=0.001 acc=0.0982 train=20.0s 
+[fedavg] round 12/15 lr=0.001 acc=- train=20.6s 
+[fedavg] round 13/15 lr=0.001 acc=0.0982 train=21.0s 
+[fedavg] round 14/15 lr=0.001 acc=- train=21.6s 
+[fedavg] round 15/15 lr=0.001 acc=0.0982 train=20.4s 
+RESULT slug=mnist_fedavg_alie_mr0.5_beta0.5_r15_s0 final_acc=0.0982 best_acc=0.2257 wall_sec=308
+[median] round 1/15 lr=0.1 acc=0.1009 train=21.3s 
+[median] round 2/15 lr=0.1 acc=- train=23.6s 
+[median] round 3/15 lr=0.1 acc=0.1009 train=22.8s 
+[median] round 4/15 lr=0.1 acc=- train=23.1s 
+[median] round 5/15 lr=0.1 acc=0.098 train=21.2s 
+[median] round 6/15 lr=0.01 acc=- train=21.5s 
+[median] round 7/15 lr=0.01 acc=0.098 train=20.5s 
+[median] round 8/15 lr=0.01 acc=- train=20.2s 
+[median] round 9/15 lr=0.01 acc=0.098 train=20.6s 
+[median] round 10/15 lr=0.01 acc=- train=20.3s 
+[median] round 11/15 lr=0.001 acc=0.098 train=20.3s 
+[median] round 12/15 lr=0.001 acc=- train=22.3s 
+[median] round 13/15 lr=0.001 acc=0.098 train=21.7s 
+[median] round 14/15 lr=0.001 acc=- train=21.0s 
+[median] round 15/15 lr=0.001 acc=0.098 train=20.5s 
+RESULT slug=mnist_median_alie_mr0.5_beta0.5_r15_s0 final_acc=0.0980 best_acc=0.1009 wall_sec=323
+[tmean] round 1/15 lr=0.1 acc=0.1009 train=22.3s 
+[tmean] round 2/15 lr=0.1 acc=- train=20.1s 
+[tmean] round 3/15 lr=0.1 acc=0.1009 train=19.7s 
+[tmean] round 4/15 lr=0.1 acc=- train=19.7s 
+[tmean] round 5/15 lr=0.1 acc=0.098 train=20.2s 
+[tmean] round 6/15 lr=0.01 acc=- train=19.9s 
+[tmean] round 7/15 lr=0.01 acc=0.098 train=19.9s 
+[tmean] round 8/15 lr=0.01 acc=- train=19.8s 
+[tmean] round 9/15 lr=0.01 acc=0.098 train=19.2s 
+[tmean] round 10/15 lr=0.01 acc=- train=19.5s 
+[tmean] round 11/15 lr=0.001 acc=0.098 train=21.5s 
+[tmean] round 12/15 lr=0.001 acc=- train=20.7s 
+[tmean] round 13/15 lr=0.001 acc=0.098 train=19.8s 
+[tmean] round 14/15 lr=0.001 acc=- train=20.1s 
+[tmean] round 15/15 lr=0.001 acc=0.098 train=21.0s 
+RESULT slug=mnist_tmean_alie_mr0.5_beta0.5_r15_s0 final_acc=0.0980 best_acc=0.1009 wall_sec=306
+[sflbr] round 1/15 lr=0.1 acc=0.883 train=21.7s rho_mal_mean=0.01619708
+[sflbr] round 2/15 lr=0.1 acc=- train=20.8s rho_mal_mean=0.00566504
+[sflbr] round 3/15 lr=0.1 acc=0.9743 train=21.4s rho_mal_mean=0.02220463
+[sflbr] round 4/15 lr=0.1 acc=- train=21.1s rho_mal_mean=0.06278524
+[sflbr] round 5/15 lr=0.1 acc=0.9791 train=21.0s rho_mal_mean=0.06383857
+[sflbr] round 6/15 lr=0.01 acc=- train=20.9s rho_mal_mean=0.07701437
+[sflbr] round 7/15 lr=0.01 acc=0.9787 train=20.6s rho_mal_mean=0.08384139
+[sflbr] round 8/15 lr=0.01 acc=- train=20.9s rho_mal_mean=0.08241016
+[sflbr] round 9/15 lr=0.01 acc=0.9778 train=21.0s rho_mal_mean=0.08607117
+[sflbr] round 10/15 lr=0.01 acc=- train=21.9s rho_mal_mean=0.08887104
+[sflbr] round 11/15 lr=0.001 acc=0.9774 train=21.2s rho_mal_mean=0.11480755
+[sflbr] round 12/15 lr=0.001 acc=- train=20.6s rho_mal_mean=0.08649332
+[sflbr] round 13/15 lr=0.001 acc=0.9773 train=20.7s rho_mal_mean=0.10070792
+[sflbr] round 14/15 lr=0.001 acc=- train=22.6s rho_mal_mean=0.0918304
+[sflbr] round 15/15 lr=0.001 acc=0.9772 train=21.4s rho_mal_mean=0.09388452
+RESULT slug=mnist_sflbr_agr_mr0.3_beta0.5_r15_s0 final_acc=0.9772 best_acc=0.9791 wall_sec=321
+[fedavg] round 1/15 lr=0.1 acc=0.5376 train=21.0s 
+[fedavg] round 2/15 lr=0.1 acc=- train=20.7s 
+[fedavg] round 3/15 lr=0.1 acc=0.9363 train=20.9s 
+[fedavg] round 4/15 lr=0.1 acc=- train=20.8s 
+[fedavg] round 5/15 lr=0.1 acc=0.9549 train=20.8s 
+[fedavg] round 6/15 lr=0.01 acc=- train=20.9s 
+[fedavg] round 7/15 lr=0.01 acc=0.962 train=20.8s 
+[fedavg] round 8/15 lr=0.01 acc=- train=20.6s 
+[fedavg] round 9/15 lr=0.01 acc=0.9629 train=23.0s 
+[fedavg] round 10/15 lr=0.01 acc=- train=21.5s 
+[fedavg] round 11/15 lr=0.001 acc=0.9634 train=20.9s 
+[fedavg] round 12/15 lr=0.001 acc=- train=20.9s 
+[fedavg] round 13/15 lr=0.001 acc=0.9634 train=21.9s 
+[fedavg] round 14/15 lr=0.001 acc=- train=21.0s 
+[fedavg] round 15/15 lr=0.001 acc=0.9632 train=20.9s 
+RESULT slug=mnist_fedavg_agr_mr0.3_beta0.5_r15_s0 final_acc=0.9632 best_acc=0.9634 wall_sec=319
+[sflbr] round 1/12 lr=0.1 acc=0.2146 train=16.7s rho_mal_mean=0.08998456
+[sflbr] round 2/12 lr=0.1 acc=- train=16.2s rho_mal_mean=0.09035467
+[sflbr] round 3/12 lr=0.1 acc=0.3975 train=16.0s rho_mal_mean=0.08948796
+[sflbr] round 4/12 lr=0.1 acc=- train=15.4s rho_mal_mean=0.09144297
+[sflbr] round 5/12 lr=0.01 acc=0.4825 train=15.7s rho_mal_mean=0.0803833
+[sflbr] round 6/12 lr=0.01 acc=- train=15.7s rho_mal_mean=0.08136917
+[sflbr] round 7/12 lr=0.01 acc=0.5006 train=15.7s rho_mal_mean=0.08134815
+[sflbr] round 8/12 lr=0.01 acc=- train=15.8s rho_mal_mean=0.08334403
+[sflbr] round 9/12 lr=0.001 acc=0.5038 train=16.0s rho_mal_mean=0.08041297
+[sflbr] round 10/12 lr=0.001 acc=- train=16.7s rho_mal_mean=0.08037443
+[sflbr] round 11/12 lr=0.001 acc=0.5026 train=16.1s rho_mal_mean=0.07798455
+[sflbr] round 12/12 lr=0.001 acc=0.5056 train=16.0s rho_mal_mean=0.07687833
+RESULT slug=cifar10_sflbr_label_shuffle_mr0.3_beta0.5_r12_s0 final_acc=0.5056 best_acc=0.5056 wall_sec=195
+[fedavg] round 1/12 lr=0.1 acc=0.2115 train=15.6s 
+[fedavg] round 2/12 lr=0.1 acc=- train=16.4s 
+[fedavg] round 3/12 lr=0.1 acc=0.3892 train=17.0s 
+[fedavg] round 4/12 lr=0.1 acc=- train=16.7s 
+[fedavg] round 5/12 lr=0.01 acc=0.4763 train=15.5s 
+[fedavg] round 6/12 lr=0.01 acc=- train=16.0s 
+[fedavg] round 7/12 lr=0.01 acc=0.4888 train=16.7s 
+[fedavg] round 8/12 lr=0.01 acc=- train=16.2s 
+[fedavg] round 9/12 lr=0.001 acc=0.4931 train=16.4s 
+[fedavg] round 10/12 lr=0.001 acc=- train=15.5s 
+[fedavg] round 11/12 lr=0.001 acc=0.494 train=16.1s 
+[fedavg] round 12/12 lr=0.001 acc=0.4938 train=16.6s 
+RESULT slug=cifar10_fedavg_label_shuffle_mr0.3_beta0.5_r12_s0 final_acc=0.4938 best_acc=0.4940 wall_sec=197
+[median] round 1/12 lr=0.1 acc=0.1991 train=15.8s 
+[median] round 2/12 lr=0.1 acc=- train=16.3s 
+[median] round 3/12 lr=0.1 acc=0.3869 train=16.5s 
+[median] round 4/12 lr=0.1 acc=- train=17.5s 
+[median] round 5/12 lr=0.01 acc=0.4744 train=16.6s 
+[median] round 6/12 lr=0.01 acc=- train=16.4s 
+[median] round 7/12 lr=0.01 acc=0.4888 train=16.7s 
+[median] round 8/12 lr=0.01 acc=- train=17.7s 
+[median] round 9/12 lr=0.001 acc=0.5003 train=16.9s 
+[median] round 10/12 lr=0.001 acc=- train=16.6s 
+[median] round 11/12 lr=0.001 acc=0.5011 train=17.7s 
+[median] round 12/12 lr=0.001 acc=0.5006 train=16.9s 
+RESULT slug=cifar10_median_label_shuffle_mr0.3_beta0.5_r12_s0 final_acc=0.5006 best_acc=0.5011 wall_sec=205
+[sflbr] round 1/12 lr=0.1 acc=0.0926 train=16.3s rho_mal_mean=0.12244466
+[sflbr] round 2/12 lr=0.1 acc=- train=14.9s rho_mal_mean=0.15106288
+[sflbr] round 3/12 lr=0.1 acc=0.0996 train=15.0s rho_mal_mean=0.1162614
+[sflbr] round 4/12 lr=0.1 acc=- train=15.0s rho_mal_mean=nan
+[sflbr] round 5/12 lr=0.01 acc=0.1 train=15.1s rho_mal_mean=nan
+[sflbr] round 6/12 lr=0.01 acc=- train=14.9s rho_mal_mean=nan
+[sflbr] round 7/12 lr=0.01 acc=0.1 train=15.5s rho_mal_mean=nan
+[sflbr] round 8/12 lr=0.01 acc=- train=14.9s rho_mal_mean=nan
+[sflbr] round 9/12 lr=0.001 acc=0.1 train=15.8s rho_mal_mean=nan
+[sflbr] round 10/12 lr=0.001 acc=- train=15.9s rho_mal_mean=nan
+[sflbr] round 11/12 lr=0.001 acc=0.1 train=15.2s rho_mal_mean=nan
+[sflbr] round 12/12 lr=0.001 acc=0.1 train=14.6s rho_mal_mean=nan
+RESULT slug=cifar10_sflbr_alie_mr0.5_beta0.5_r12_s0 final_acc=0.1000 best_acc=0.1000 wall_sec=186
+[fedavg] round 1/12 lr=0.1 acc=0.0992 train=17.3s 
+[fedavg] round 2/12 lr=0.1 acc=- train=17.3s 
+[fedavg] round 3/12 lr=0.1 acc=0.0904 train=16.4s 
+[fedavg] round 4/12 lr=0.1 acc=- train=16.0s 
+[fedavg] round 5/12 lr=0.01 acc=0.1 train=16.3s 
+[fedavg] round 6/12 lr=0.01 acc=- train=16.4s 
+[fedavg] round 7/12 lr=0.01 acc=0.1 train=14.7s 
+[fedavg] round 8/12 lr=0.01 acc=- train=14.7s 
+[fedavg] round 9/12 lr=0.001 acc=0.1 train=14.8s 
+[fedavg] round 10/12 lr=0.001 acc=- train=14.5s 
+[fedavg] round 11/12 lr=0.001 acc=0.1 train=14.8s 
+[fedavg] round 12/12 lr=0.001 acc=0.1 train=14.9s 
+RESULT slug=cifar10_fedavg_alie_mr0.5_beta0.5_r12_s0 final_acc=0.1000 best_acc=0.1000 wall_sec=190
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 21407 (\N{CJK UNIFIED IDEOGRAPH-539F}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 22987 (\N{CJK UNIFIED IDEOGRAPH-59CB}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 22270 (\N{CJK UNIFIED IDEOGRAPH-56FE}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 20687 (\N{CJK UNIFIED IDEOGRAPH-50CF}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 26126 (\N{CJK UNIFIED IDEOGRAPH-660E}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 25991 (\N{CJK UNIFIED IDEOGRAPH-6587}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 26799 (\N{CJK UNIFIED IDEOGRAPH-68AF}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 24230 (\N{CJK UNIFIED IDEOGRAPH-5EA6}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 24314 (\N{CJK UNIFIED IDEOGRAPH-5EFA}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 21305 (\N{CJK UNIFIED IDEOGRAPH-5339}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 37197 (\N{CJK UNIFIED IDEOGRAPH-914D}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 25439 (\N{CJK UNIFIED IDEOGRAPH-635F}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 22833 (\N{CJK UNIFIED IDEOGRAPH-5931}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 21152 (\N{CJK UNIFIED IDEOGRAPH-52A0}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 27861 (\N{CJK UNIFIED IDEOGRAPH-6CD5}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 25513 (\N{CJK UNIFIED IDEOGRAPH-63A9}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 30721 (\N{CJK UNIFIED IDEOGRAPH-7801}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 21518 (\N{CJK UNIFIED IDEOGRAPH-540E}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 35770 (\N{CJK UNIFIED IDEOGRAPH-8BBA}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 30340 (\N{CJK UNIFIED IDEOGRAPH-7684}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 23450 (\N{CJK UNIFIED IDEOGRAPH-5B9A}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 24615 (\N{CJK UNIFIED IDEOGRAPH-6027}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 22797 (\N{CJK UNIFIED IDEOGRAPH-590D}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:102: UserWarning: Glyph 29616 (\N{CJK UNIFIED IDEOGRAPH-73B0}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 21407 (\N{CJK UNIFIED IDEOGRAPH-539F}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 22987 (\N{CJK UNIFIED IDEOGRAPH-59CB}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 22270 (\N{CJK UNIFIED IDEOGRAPH-56FE}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 20687 (\N{CJK UNIFIED IDEOGRAPH-50CF}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 26126 (\N{CJK UNIFIED IDEOGRAPH-660E}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 25991 (\N{CJK UNIFIED IDEOGRAPH-6587}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 26799 (\N{CJK UNIFIED IDEOGRAPH-68AF}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 24230 (\N{CJK UNIFIED IDEOGRAPH-5EA6}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 24314 (\N{CJK UNIFIED IDEOGRAPH-5EFA}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 21305 (\N{CJK UNIFIED IDEOGRAPH-5339}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 37197 (\N{CJK UNIFIED IDEOGRAPH-914D}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 25439 (\N{CJK UNIFIED IDEOGRAPH-635F}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 22833 (\N{CJK UNIFIED IDEOGRAPH-5931}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 21152 (\N{CJK UNIFIED IDEOGRAPH-52A0}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 27861 (\N{CJK UNIFIED IDEOGRAPH-6CD5}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 25513 (\N{CJK UNIFIED IDEOGRAPH-63A9}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 30721 (\N{CJK UNIFIED IDEOGRAPH-7801}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 21518 (\N{CJK UNIFIED IDEOGRAPH-540E}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 35770 (\N{CJK UNIFIED IDEOGRAPH-8BBA}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 30340 (\N{CJK UNIFIED IDEOGRAPH-7684}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 23450 (\N{CJK UNIFIED IDEOGRAPH-5B9A}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 24615 (\N{CJK UNIFIED IDEOGRAPH-6027}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 22797 (\N{CJK UNIFIED IDEOGRAPH-590D}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\src\dlg.py:104: UserWarning: Glyph 29616 (\N{CJK UNIFIED IDEOGRAPH-73B0}) missing from font(s) DejaVu Sans.
+  fig.savefig(out_png, dpi=150)
+DLG RESULT steps=300 match_plain=1.8317e+01 match_masked=2.2690e+05 mse_plain=0.2736 mse_masked=0.2938 saved=G:\FL_HE_ATTACK\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\experiment\results\dlg_comparison.png
+===== [1/18] --dataset mnist --agg sflbr --attack none --rounds 15 =====
+===== [2/18] --dataset mnist --agg fedavg --attack none --rounds 15 =====
+===== [3/18] --dataset mnist --agg sflbr --attack none --rounds 15 --beta 100 =====
+===== [4/18] --dataset mnist --agg sflbr --attack label_shuffle --mal-frac 0.3 --rounds 15 =====
+===== [5/18] --dataset mnist --agg fedavg --attack label_shuffle --mal-frac 0.3 --rounds 15 =====
+===== [6/18] --dataset mnist --agg median --attack label_shuffle --mal-frac 0.3 --rounds 15 =====
+===== [7/18] --dataset mnist --agg tmean --attack label_shuffle --mal-frac 0.3 --rounds 15 =====
+===== [8/18] --dataset mnist --agg sflbr --attack alie --mal-frac 0.5 --rounds 15 =====
+===== [9/18] --dataset mnist --agg fedavg --attack alie --mal-frac 0.5 --rounds 15 =====
+===== [10/18] --dataset mnist --agg median --attack alie --mal-frac 0.5 --rounds 15 =====
+===== [11/18] --dataset mnist --agg tmean --attack alie --mal-frac 0.5 --rounds 15 =====
+===== [12/18] --dataset mnist --agg sflbr --attack agr --mal-frac 0.3 --rounds 15 =====
+===== [13/18] --dataset mnist --agg fedavg --attack agr --mal-frac 0.3 --rounds 15 =====
+===== [14/18] --dataset cifar10 --agg sflbr --attack label_shuffle --mal-frac 0.3 --rounds 12 =====
+===== [15/18] --dataset cifar10 --agg fedavg --attack label_shuffle --mal-frac 0.3 --rounds 12 =====
+===== [16/18] --dataset cifar10 --agg median --attack label_shuffle --mal-frac 0.3 --rounds 12 =====
+===== [17/18] --dataset cifar10 --agg sflbr --attack alie --mal-frac 0.5 --rounds 12 =====
+===== [18/18] --dataset cifar10 --agg fedavg --attack alie --mal-frac 0.5 --rounds 12 =====
+===== DLG 梯度重建对比 =====
+[sflbr] round 1/15 lr=0.1 acc=0.9098 train=21.2s rho_mal_mean=None
+[sflbr] round 2/15 lr=0.1 acc=- train=21.3s rho_mal_mean=None
+[sflbr] round 3/15 lr=0.1 acc=0.9792 train=22.0s rho_mal_mean=None
+[sflbr] round 4/15 lr=0.1 acc=- train=20.9s rho_mal_mean=None
+[sflbr] round 5/15 lr=0.1 acc=0.9869 train=26.6s rho_mal_mean=None
+[sflbr] round 6/15 lr=0.01 acc=- train=21.4s rho_mal_mean=None
+[sflbr] round 7/15 lr=0.01 acc=0.9883 train=21.8s rho_mal_mean=None
+[sflbr] round 8/15 lr=0.01 acc=- train=27.1s rho_mal_mean=None
+[sflbr] round 9/15 lr=0.01 acc=0.9881 train=24.8s rho_mal_mean=None
+[sflbr] round 10/15 lr=0.01 acc=- train=21.8s rho_mal_mean=None
+[sflbr] round 11/15 lr=0.001 acc=0.9886 train=22.0s rho_mal_mean=None
+[sflbr] round 12/15 lr=0.001 acc=- train=25.8s rho_mal_mean=None
+[sflbr] round 13/15 lr=0.001 acc=0.9888 train=21.0s rho_mal_mean=None
+[sflbr] round 14/15 lr=0.001 acc=- train=21.4s rho_mal_mean=None
+[sflbr] round 15/15 lr=0.001 acc=0.9887 train=24.0s rho_mal_mean=None
+RESULT slug=mnist_sflbr_none_mr0.0_beta0.5_r15_s0 final_acc=0.9887 best_acc=0.9888 wall_sec=346
+[fedavg] round 1/15 lr=0.1 acc=0.9047 train=24.6s 
+[fedavg] round 2/15 lr=0.1 acc=- train=22.6s 
+[fedavg] round 3/15 lr=0.1 acc=0.9782 train=25.3s 
+[fedavg] round 4/15 lr=0.1 acc=- train=22.8s 
+[fedavg] round 5/15 lr=0.1 acc=0.9863 train=25.1s 
+[fedavg] round 6/15 lr=0.01 acc=- train=25.3s 
+[fedavg] round 7/15 lr=0.01 acc=0.9875 train=23.0s 
+[fedavg] round 8/15 lr=0.01 acc=- train=24.6s 
+[fedavg] round 9/15 lr=0.01 acc=0.9879 train=26.1s 
+[fedavg] round 10/15 lr=0.01 acc=- train=24.1s 
+[fedavg] round 11/15 lr=0.001 acc=0.9885 train=22.4s 
+[fedavg] round 12/15 lr=0.001 acc=- train=23.0s 
+[fedavg] round 13/15 lr=0.001 acc=0.9886 train=24.5s 
+[fedavg] round 14/15 lr=0.001 acc=- train=22.6s 
+[fedavg] round 15/15 lr=0.001 acc=0.9887 train=27.8s 
+RESULT slug=mnist_fedavg_none_mr0.0_beta0.5_r15_s0 final_acc=0.9887 best_acc=0.9887 wall_sec=367
+[sflbr] round 1/15 lr=0.1 acc=0.9651 train=28.0s rho_mal_mean=None
+[sflbr] round 2/15 lr=0.1 acc=- train=23.1s rho_mal_mean=None
+[sflbr] round 3/15 lr=0.1 acc=0.9879 train=25.5s rho_mal_mean=None
+[sflbr] round 4/15 lr=0.1 acc=- train=22.7s rho_mal_mean=None
+[sflbr] round 5/15 lr=0.1 acc=0.9891 train=25.4s rho_mal_mean=None
+[sflbr] round 6/15 lr=0.01 acc=- train=23.2s rho_mal_mean=None
+[sflbr] round 7/15 lr=0.01 acc=0.9897 train=21.9s rho_mal_mean=None
+[sflbr] round 8/15 lr=0.01 acc=- train=22.1s rho_mal_mean=None
+[sflbr] round 9/15 lr=0.01 acc=0.9898 train=22.3s rho_mal_mean=None
+[sflbr] round 10/15 lr=0.01 acc=- train=21.8s rho_mal_mean=None
+[sflbr] round 11/15 lr=0.001 acc=0.9902 train=22.8s rho_mal_mean=None
+[sflbr] round 12/15 lr=0.001 acc=- train=28.5s rho_mal_mean=None
+[sflbr] round 13/15 lr=0.001 acc=0.9904 train=22.0s rho_mal_mean=None
+[sflbr] round 14/15 lr=0.001 acc=- train=23.3s rho_mal_mean=None
+[sflbr] round 15/15 lr=0.001 acc=0.9905 train=24.0s rho_mal_mean=None
+RESULT slug=mnist_sflbr_none_mr0.0_beta100.0_r15_s0 final_acc=0.9905 best_acc=0.9905 wall_sec=360
+[sflbr] round 1/15 lr=0.1 acc=0.8538 train=23.8s rho_mal_mean=0.09586391
+[sflbr] round 2/15 lr=0.1 acc=- train=21.2s rho_mal_mean=0.09082533
+[sflbr] round 3/15 lr=0.1 acc=0.9586 train=25.6s rho_mal_mean=0.08761627
+[sflbr] round 4/15 lr=0.1 acc=- train=22.9s rho_mal_mean=0.086011
+[sflbr] round 5/15 lr=0.1 acc=0.9719 train=20.3s rho_mal_mean=0.08158092
+[sflbr] round 6/15 lr=0.01 acc=- train=21.6s rho_mal_mean=0.0657168
+[sflbr] round 7/15 lr=0.01 acc=0.9821 train=22.6s rho_mal_mean=0.07040031
+[sflbr] round 8/15 lr=0.01 acc=- train=21.9s rho_mal_mean=0.06170274
+[sflbr] round 9/15 lr=0.01 acc=0.9837 train=22.2s rho_mal_mean=0.06066724
+[sflbr] round 10/15 lr=0.01 acc=- train=33.5s rho_mal_mean=0.06151773
+[sflbr] round 11/15 lr=0.001 acc=0.9803 train=35.5s rho_mal_mean=0.07012507
+[sflbr] round 12/15 lr=0.001 acc=- train=24.3s rho_mal_mean=0.0381725
+[sflbr] round 13/15 lr=0.001 acc=0.9811 train=26.4s rho_mal_mean=0.0415312
+[sflbr] round 14/15 lr=0.001 acc=- train=24.3s rho_mal_mean=0.04172679
+[sflbr] round 15/15 lr=0.001 acc=0.9812 train=23.4s rho_mal_mean=0.04082984
+RESULT slug=mnist_sflbr_label_shuffle_mr0.3_beta0.5_r15_s0 final_acc=0.9812 best_acc=0.9837 wall_sec=373
+[fedavg] round 1/15 lr=0.1 acc=0.8479 train=22.5s 
+[fedavg] round 2/15 lr=0.1 acc=- train=26.4s 
+[fedavg] round 3/15 lr=0.1 acc=0.9553 train=24.6s 
+[fedavg] round 4/15 lr=0.1 acc=- train=30.9s 
+[fedavg] round 5/15 lr=0.1 acc=0.9575 train=29.8s 
+[fedavg] round 6/15 lr=0.01 acc=- train=21.8s 
+[fedavg] round 7/15 lr=0.01 acc=0.9754 train=23.5s 
+[fedavg] round 8/15 lr=0.01 acc=- train=34.9s 
+[fedavg] round 9/15 lr=0.01 acc=0.9751 train=33.3s 
+[fedavg] round 10/15 lr=0.01 acc=- train=22.2s 
+[fedavg] round 11/15 lr=0.001 acc=0.9633 train=24.5s 
+
+===== DLG 最终结果(官方 Sigmoid 配方 + iDLG 标签推断 + 3 重启,2026-10-11)=====
+DLG RESULT steps=300 true_label=2 label_plain=2 label_masked=7 match_plain=3.8802e-08 match_masked=4.3807e+05 mse_plain=0.0000 mse_masked=0.1882 saved=results/dlg_comparison.png

@@ -1,0 +1,30 @@
+SFLBR 复现环境报告(生成时间:2026-10-11 19:21:13)
+================================================================
+
+[操作系统]
+  系统: Windows 10 (build 10.0.26200)
+  Python: 3.11.9 (64bit)
+
+[硬件]
+  CPU: 13th Gen Intel(R) Core(TM) i7-13620H
+  逻辑核: 16
+  内存: 15.7 GB(当前可用 2.7 GB)
+
+[GPU]
+  torch.cuda.is_available: False
+  无 CUDA 设备 —— 本机所有实验在 CPU 上跑;论文全规模实验需要 NVIDIA GPU
+
+[关键依赖版本]
+  torch: 2.10.0+cpu
+  torchvision: 0.25.0+cpu
+  numpy: 2.3.5
+  matplotlib: 3.10.8
+  torch 默认线程数: 10
+
+[数据集缓存]
+  _hf/
+  cifar10_test.pt  (30.8 MB)
+  cifar10_train.pt  (154.0 MB)
+  MNIST/
+  mnist_test.pt  (7.9 MB)
+  mnist_train.pt  (47.5 MB)

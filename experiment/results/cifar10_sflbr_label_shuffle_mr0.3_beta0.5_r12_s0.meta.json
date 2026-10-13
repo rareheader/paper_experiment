@@ -1,0 +1,39 @@
+{
+  "cfg": {
+    "dataset": "cifar10",
+    "arch": null,
+    "agg": "sflbr",
+    "attack": "label_shuffle",
+    "mal_frac": 0.3,
+    "alie_z": 1.5,
+    "agr_lam": 1.0,
+    "beta": 0.5,
+    "users": 10,
+    "sample": 10,
+    "rounds": 12,
+    "epochs": 3,
+    "batch": 32,
+    "lr": 0.1,
+    "eta": 1.0,
+    "alpha": null,
+    "weight_decay": 0.0,
+    "decay_rounds": [
+      4,
+      8
+    ],
+    "eval_every": 2,
+    "seed": 0,
+    "threads": 2,
+    "outdir": "G:\\FL_HE_ATTACK\\Wang 等 - 2026 - A byzantine-robust secure federated learning scheme in heterogeneous data\\experiment\\results",
+    "tag": ""
+  },
+  "alpha_used": 0.005,
+  "mal_users": [
+    5,
+    6,
+    9
+  ],
+  "final_acc": 0.5056,
+  "best_acc": 0.5056,
+  "wall_sec": 194.7
+}
